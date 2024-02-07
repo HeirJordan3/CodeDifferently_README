@@ -23,46 +23,63 @@ Okay, drumroll please 🥁... So, the whole Delaware thing? It's only half the s
 - **Morning Person:** I kick off my days with a workout, anytime between 5:30 and 7:30 AM. It's me time before the work frenzy begins.
 - **Work Hours:** I'm on the clock from 9 AM to about 4:30-5 PM. If I missed my morning workout, I hit the gym in the evening, even though it's like a zoo.
 
-### 🗨️ Let's Chat: Best Ways to Reach Me
-- **Email:** For the deep dives and official stuff.
-- **Slack:** Quick questions or just to drop a funny meme.
-- **Texts:** Hit me up for anything urgent, or if you've got food. 😋
+## 📞 Best Ways to Communicate
+Communication is key to any successful relationship, professional or personal. Here are my preferences:
+- **Email:** Ideal for non-urgent, detailed discussions or when sharing documents.
+- **Slack:** Perfect for quick questions, updates, or saying hi.
+- **Text Message:** When immediate attention is needed, a text message is the way to go.
 
-### 🚀 In Case I'm MIA
-If I haven't gotten back to you, it's not you, it's me. Seriously, just text me. I'm probably just caught up in something or, let's be honest, may have spaced.
+## 🚫 If I Don’t Respond
+While I strive to be attentive and responsive, there are times when messages might slip through the cracks.
 
-### 💭 Feedback's a Breeze
-I'm all ears, always. If you've got something to share, let's grab a coffee and chat. Face-to-face is how I roll for the real talk.
+- **Text Me:** If a prompt response is critical and I haven't answered my phone, please send a text for a quicker reply.
 
-### 🎯 Goals? Got 'Em!
-- **Java Genius:** Working towards that Oracle Java Certification.
-- **Cloud Conqueror:** Eyeing that AWS Cloud Certification next.
+## 🗣 Feedback Preferences
+Feedback is a gift, and I value it greatly as it contributes to personal and professional growth.
 
-### 📚 What Gets Me Talking
+- **One-on-One Setting:** For feedback, especially personal or sensitive in nature, I prefer face-to-face conversations. It ensures clarity and allows for a more meaningful exchange.
+
+
+## 🎯 Goals for the Coming Year
+I'm committed to continuous learning and development, both in my personal life and professional career. Here are my key objectives for the coming year:
+
+- **Oracle Java Certification:** To deepen my understanding and expertise in Java programming.
+- **AWS Cloud Certification:** To expand my knowledge in cloud computing and services, aligning with the latest industry standards.
+
+## 💬 Topics I Enjoy
 - **Sports Talk:** Game night highlights or debating the GOAT? I'm in.
 - **Snowboarding Stories:** Slopes, snow, and everything in between.
-- **Family Feats:** From sibling shenanigans to parenting hacks.
+- **Family Feats:** The core of my life, I cherish conversations about family.
 - **Photo Ops:** Peep my photography skills on [Instagram](https://www.instagram.com/jordanxeldridge/).
 
 ### 🍳 Chef Jordan in the House
-- **Buffalo Chicken Dip & Chili:** My go-to comfort foods that never disappoint.
+I believe food brings people together. Here are a couple of dishes I enjoy preparing:
 
-### 🐾 The Home Team
-- **Josie:** The furball that runs our house. She's more than a pet; she's the boss.
+- **Buffalo Chicken Dip:** A crowd-pleaser at any gathering, this spicy, cheesy delight is my go-to recipe.
+- **Chili:** Perfect for cozy nights in, my chili recipe is both comforting and hearty.
 
-### 🍕 Foodie at Heart
-- **Pizza and Vanilla Lattes:** My kryptonite. The simpler, the better.
+## 🐾 Family and Pets
+Family is everything, and pets make it even better.
+
+- **Josie:** Our family dog, Josie, is more than a pet; she's the heart of our home, bringing joy and laughter every day.
+
+## 🍕 Food Preferences
+Life's too short to eat boring food.
+
+- **Pizza:** A personal pan pizza is my ultimate comfort food. Simple, delicious, and always satisfying.
 
 ### 🏡 Where I'm From
 - **Darby Township, PA:** It's where my roots are, and it's made me who I am.
 
-### 🏀 Team Spirit
-- **Sixers Fanatic:** Through thick and thin. But honestly, I'm here for the love of the game.
+## 🏀 Sports Loyalties
+Sports are a big part of my life, offering excitement and a sense of community.
 
-### 😂 Just For Laughs
-This GIF is my spirit animal. Because why not?
+- **Sixers:** My basketball team through thick and thin. For football, I enjoy the game more than loyalty to a single team.
 
-![GIF of joy](https://media3.giphy.com/media/QMHoU66sBXqqLqYvGO/200.gif?cid=6104955enhj04udn2u1aiv0zbsiyzv7x83lk9y05q4q3q2h3&ep=v1_gifs_translate&rid=200.gif&ct=g)
+## 😂 Favorite GIF
+A picture is worth a thousand words, and a GIF can say even more. Here's one that always brings a smile to my face:
+
+![](https://media3.giphy.com/media/QMHoU66sBXqqLqYvGO/200.gif?cid=6104955enhj04udn2u1aiv0zbsiyzv7x83lk9y05q4q3q2h3&ep=v1_gifs_translate&rid=200.gif&ct=g)
 
 ## 🎉 That's a Wrap!
 Thanks for hanging out! I'm looking forward to all the awesome stuff we're gonna do and talk about. Here's to making work fun and keeping life interesting. Cheers!
