@@ -13,7 +13,9 @@ First off, let's play a game to break the ice. I'll throw out three facts about 
 
 ![GIF of excitement](https://media4.giphy.com/media/DOEXrsUpJ6IIP0GfM9/200.gif?cid=6104955enoqzvst5iqhm3h1wpje5919uesax36r0lyv5c6wi&ep=v1_gifs_translate&rid=200.gif&ct=g)
 
-And... drumroll, please 🥁... The Delaware bit? Yeah, that's the tall tale. I'm actually Ohio-born and raised. And yup, Kobe Bryant did hold me once - how cool is that? Plus, I have the joy (and chaos) of 8 siblings.
+
+Okay, drumroll please 🥁... So, the whole Delaware thing? It's only half the story. Born in Ohio, then did my growing-up thing in Darby Township, but high school? That was all Delaware, starting 2010. And yeah, Kobe Bryant holding me is a real deal - pretty wild, right? Plus, toss in 8 siblings to the mix, and you've got my kinda crazy, totally awesome life!
+
 
 ![](/Users/jordaneldridge/dev/source/CodeDifferently_README/assets/Kobe.JPG)
 
