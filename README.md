@@ -17,6 +17,8 @@ And... drumroll, please 🥁... The Delaware bit? Yeah, that's the tall tale. I'
 
 ![](/Users/jordaneldridge/dev/source/CodeDifferently_README/assets/Kobe.JPG)
 
+
+
 ### The Daily Grind: Work & Play
 - **Morning Person:** I kick off my days with a workout, anytime between 5:30 and 7:30 AM. It's me time before the work frenzy begins.
 - **Work Hours:** I'm on the clock from 9 AM to about 4:30-5 PM. If I missed my morning workout, I hit the gym in the evening, even though it's like a zoo.
