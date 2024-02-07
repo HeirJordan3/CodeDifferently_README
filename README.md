@@ -60,8 +60,7 @@ I'm all ears, always. If you've got something to share, let's grab a coffee and 
 ### 😂 Just For Laughs
 This GIF is my spirit animal. Because why not?
 
-![GIF of joy](https://media3.giphy.com/media/QMHoU66sBXqqLqYvGO/200.gif?cid=6104955enhj04udn2u1aiv0zbsiyzv7x83lk9y05q4q3q2h3&ep=v1_gifs_translate&rid=200.gif
-&ct=g)
+![GIF of joy](https://media3.giphy.com/media/QMHoU66sBXqqLqYvGO/200.gif?cid=6104955enhj04udn2u1aiv0zbsiyzv7x83lk9y05q4q3q2h3&ep=v1_gifs_translate&rid=200.gif&ct=g)
 
 ## 🎉 That's a Wrap!
 Thanks for hanging out! I'm looking forward to all the awesome stuff we're gonna do and talk about. Here's to making work fun and keeping life interesting. Cheers!
