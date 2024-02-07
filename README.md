@@ -16,9 +16,7 @@ First off, let's play a game to break the ice. I'll throw out three facts about 
 
 Okay, drumroll please 🥁... So, the whole Delaware thing? It's only half the story. Born in Ohio, then did my growing-up thing in Darby Township, but high school? That was all Delaware, starting 2010. And yeah, Kobe Bryant holding me is a real deal - pretty wild, right? Plus, toss in 8 siblings to the mix, and you've got my kinda crazy, totally awesome life!
 
-
-![](/Users/jordaneldridge/dev/source/CodeDifferently_README/assets/Kobe.JPG)
-
+![](https://github.com/HeirJordan3/CodeDifferently_README/blob/main/assets/Kobe.JPG?raw=true)
 
 
 ### The Daily Grind: Work & Play
